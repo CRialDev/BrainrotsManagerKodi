@@ -1,0 +1,119 @@
+[
+    {
+        "Name": "MagixCRial00003",
+        "Brainrots": [
+            {
+                "Id": "noobini-pizzanini",
+                "Name": "Noobini Pizzanini",
+                "Rarity": "Common",
+                "Cost": 25,
+                "BaseIncomePerSecond": 1,
+                "SpawnRate": "Every 5 minutes",
+                "Secret": false,
+                "Acquisition": {
+                    "Purchase": "Buy from central conveyor; ideal for beginners.",
+                    "Steal": "Low priority due to minimal income.",
+                    "Strategy": "Use for early cash accumulation; upgrade to higher tiers quickly."
+                },
+                "Controversy": "Starter Brainrot.",
+                "Description": "Noobini Pizzanini is a quirky, pizza-loving novice, embodying the essence of a beginner with a goofy, dough-tossing vibe.",
+                "Event": "none",
+                "AddedAt": "2025-01-01",
+                "Image": "noobini-pizzanini.webp",
+                "Mutation": {
+                    "Name": "YinYang",
+                    "Multiplier": 7.5
+                },
+                "Traits": [
+                    {
+                        "Name": "RIP",
+                        "Multiplier": 5,
+                        "Image": "rip.webp",
+                        "Description": "Obtenu lors de l'événement Frightrot. Le brainrot reçoit une pierre tombale avec 'RIP' sur la tête."
+                    },
+                    {
+                        "Name": "Pumpkin",
+                        "Multiplier": 5.5,
+                        "Image": "pumpkin.webp",
+                        "Description": "Obtenu lors de l'événement Frightrot. Le brainrot reçoit une apparence de citrouille sculptée."
+                    }
+                ]
+            },
+            {
+                "Id": "tim-cheese-diamond-sombrero-paint",
+                "Name": "Tim Cheese",
+                "Rarity": "Common",
+                "Cost": 500,
+                "BaseIncomePerSecond": 5,
+                "SpawnRate": "Every 5 minutes",
+                "Secret": false,
+                "Acquisition": {
+                    "Purchase": "Buy from central conveyor; suitable for beginners.",
+                    "Steal": "Low priority; minimal strategic value.",
+                    "Strategy": "Use to build early cash reserves."
+                },
+                "Controversy": "Starter Brainrot.",
+                "Description": "Tim Cheese is a quirky, cheese-obsessed mascot, oozing with a playful, dairy-infused charm.",
+                "Event": "none",
+                "AddedAt": "2025-01-01",
+                "Image": "tim-cheese.webp",
+                "Mutation": {
+                    "Name": "Diamond",
+                    "Multiplier": 1.5
+                },
+                "Traits": [
+                    {
+                        "Name": "Sombrero",
+                        "Multiplier": 5,
+                        "Image": "sombrero.webp",
+                        "Description": "Obtenu lors de l'événement Mexique. Le brainrot reçoit un sombrero et un symbole de fête."
+                    },
+                    {
+                        "Name": "Paint",
+                        "Multiplier": 6,
+                        "Image": "paint.webp",
+                        "Description": "Obtenu lors du rituel Chicleteira. Le brainrot laisse des traces de peinture colorée et reçoit un symbole de peinture."
+                    }
+                ]
+            },
+            {
+                "Id": "lirili-larila-default-rip-pumpkin",
+                "Name": "Lirili Larila",
+                "Rarity": "Common",
+                "Cost": 250,
+                "BaseIncomePerSecond": 3,
+                "SpawnRate": "Every 5 minutes",
+                "Secret": false,
+                "Acquisition": {
+                    "Purchase": "Buy from central conveyor; affordable for new players.",
+                    "Steal": "Low priority due to low income.",
+                    "Strategy": "Use for early-game cash flow; transition to Rare tiers."
+                },
+                "Controversy": "Starter Brainrot.",
+                "Description": "Lirili Larila is a wandering desert elephant with a ticking clock and sandal-wearing cacti, spotting surreal sights.",
+                "Event": "none",
+                "AddedAt": "2025-01-01",
+                "Image": "lirili-larila.webp",
+                "Mutation": {
+                    "Name": "Default",
+                    "Multiplier": 1
+                },
+                "BaseName": "MagixCRial00003",
+                "Traits": [
+                    {
+                        "Name": "RIP",
+                        "Multiplier": 5,
+                        "Image": "rip.webp",
+                        "Description": "Obtenu lors de l'événement Frightrot. Le brainrot reçoit une pierre tombale avec 'RIP' sur la tête."
+                    },
+                    {
+                        "Name": "Pumpkin",
+                        "Multiplier": 5.5,
+                        "Image": "pumpkin.webp",
+                        "Description": "Obtenu lors de l'événement Frightrot. Le brainrot reçoit une apparence de citrouille sculptée."
+                    }
+                ]
+            }
+        ]
+    }
+]

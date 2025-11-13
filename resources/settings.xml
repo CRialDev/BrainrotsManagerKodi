@@ -1,0 +1,5 @@
+<settings>
+	<category label="Général">
+		<setting id="data_path" type="folder" label="Chemin de données" default="" />
+	</category>
+</settings>

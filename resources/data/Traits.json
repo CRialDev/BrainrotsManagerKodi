@@ -1,0 +1,200 @@
+[
+  {
+    "Name": "RIP",
+    "Multiplier": 5,
+    "Image": "rip.webp",
+    "Description": "Obtenu lors de l'événement Frightrot. Le brainrot reçoit une pierre tombale avec 'RIP' sur la tête."
+  },
+  {
+    "Name": "Pumpkin",
+    "Multiplier": 5.5,
+    "Image": "pumpkin.webp",
+    "Description": "Obtenu lors de l'événement Frightrot. Le brainrot reçoit une apparence de citrouille sculptée."
+  },
+  {
+    "Name": "Meowl",
+    "Multiplier": 7.5,
+    "Image": "meowl.webp",
+    "Description": "Obtenu lors de l'événement Meowl. Le brainrot reçoit des oreilles de chat et un symbole Meowl."
+  },
+  {
+    "Name": "Indonesia",
+    "Multiplier": 5,
+    "Image": "indonesia.webp",
+    "Description": "Obtenu lors de l'événement Indonésie. Le brainrot reçoit une aura avec le drapeau indonésien."
+  },
+  {
+    "Name": "WizardHat",
+    "Multiplier": 4,
+    "Image": "wizardhat.webp",
+    "Description": "Obtenu lors de l'événement Witching Hour. Le brainrot reçoit un chapeau de sorcier violet et une aura magique."
+  },
+  {
+    "Name": "Tie",
+    "Multiplier": 4.75,
+    "Image": "tie.webp",
+    "Description": "Obtenu lors du rituel Dul Dul Dul. Le brainrot reçoit une cravate rouge et une apparence formelle."
+  },
+  {
+    "Name": "Sombrero",
+    "Multiplier": 5,
+    "Image": "sombrero.webp",
+    "Description": "Obtenu lors de l'événement Mexique. Le brainrot reçoit un sombrero et un symbole de fête."
+  },
+  {
+    "Name": "Paint",
+    "Multiplier": 6,
+    "Image": "paint.webp",
+    "Description": "Obtenu lors du rituel Chicleteira. Le brainrot laisse des traces de peinture colorée et reçoit un symbole de peinture."
+  },
+  {
+    "Name": "Extinct",
+    "Multiplier": 4,
+    "Image": "extinct.webp",
+    "Description": "Obtenu en passant près de la structure en cage thoracique. Le brainrot reçoit une cage thoracique et un symbole de crâne."
+  },
+  {
+    "Name": "Strawberry",
+    "Multiplier": 8,
+    "Image": "strawberry.webp",
+    "Description": "Obtenu lors de l'événement Strawberry Elephant OG. Le brainrot devient rouge fraise avec un calice vert."
+  },
+  {
+    "Name": "Spider",
+    "Multiplier": 4.5,
+    "Image": "spider.webp",
+    "Description": "Un araignée rampe sur le brainrot, lui donnant une apparence arachnéenne et un symbole d'araignée."
+  },
+  {
+    "Name": "Mygame43",
+    "Multiplier": 6,
+    "Image": "mygame43.webp",
+    "Description": "Un événement spécial avec une licorne volante et une aura de foudre. Le brainrot reçoit un symbole de foudre."
+  },
+  {
+    "Name": "Ufo",
+    "Multiplier": 3,
+    "Image": "ufo.webp",
+    "Description": "Des OVNIs frappent les brainrots, leur donnant un symbole d'OVNI sur la tête."
+  },
+  {
+    "Name": "Sleep",
+    "Multiplier": 0.5,
+    "Image": "sleep.webp",
+    "Description": "Quand Jando dort sur le convoyeur, les brainrots peuvent recevoir une aura de sommeil et un symbole Zzz. Ce trait réduit les revenus."
+  },
+  {
+    "Name": "Brazil",
+    "Multiplier": 6,
+    "Image": "brazil.webp",
+    "Description": "Obtenu lors de l'événement Brésil. Le brainrot reçoit une aura scintillante et un drapeau brésilien."
+  },
+  {
+    "Name": "Matteo",
+    "Multiplier": 4.5,
+    "Image": "matteo.webp",
+    "Description": "Obtenu lors du rituel Matteo. Le brainrot reçoit un chapeau haut-de-forme et une aura électrique."
+  },
+  {
+    "Name": "Disco",
+    "Multiplier": 5,
+    "Image": "disco.webp",
+    "Description": "Lors d'un concert, les brainrots obtiennent une aura musicale et un symbole de note."
+  },
+  {
+    "Name": "Cometstruck",
+    "Multiplier": 3.5,
+    "Image": "cometstruck.webp",
+    "Description": "Des étoiles frappent les brainrots, leur donnant une aura étoilée et un symbole d'étoile."
+  },
+  {
+    "Name": "Snowy",
+    "Multiplier": 3,
+    "Image": "snowy.webp",
+    "Description": "La neige tombe sur les brainrots, leur donnant une aura enneigée et un symbole de flocon."
+  },
+  {
+    "Name": "Rain",
+    "Multiplier": 2.5,
+    "Image": "rain.webp",
+    "Description": "La pluie tombe sur les brainrots, leur donnant une aura de pluie et un symbole de goutte."
+  },
+  {
+    "Name": "Fire",
+    "Multiplier": 6,
+    "Image": "fire.webp",
+    "Description": "Des éruptions solaires frappent les brainrots, les enflammant et leur donnant un symbole de feu."
+  },
+  {
+    "Name": "Nyan",
+    "Multiplier": 6,
+    "Image": "nyan.webp",
+    "Description": "Des Nyan Cats frappent les brainrots, leur donnant une traînée arc-en-ciel et un symbole de Nyan Cat."
+  },
+  {
+    "Name": "Fireworks",
+    "Multiplier": 6,
+    "Image": "fireworks.webp",
+    "Description": "Des feux d'artifice frappent les brainrots, leur donnant une aura scintillante et un symbole de feu d'artifice."
+  },
+  {
+    "Name": "Claws",
+    "Multiplier": 5,
+    "Image": "claws.webp",
+    "Description": "Des crabes dansants pincent les brainrots, leur donnant des pinces de crabe et un symbole de pince."
+  },
+  {
+    "Name": "Glitched",
+    "Multiplier": 5,
+    "Image": "glitched.webp",
+    "Description": "Le brainrot tombe dans un trou de glitch et reçoit une aura glitch et un symbole de glitch."
+  },
+  {
+    "Name": "Zombie",
+    "Multiplier": 5,
+    "Image": "zombie.webp",
+    "Description": "Les Tung Tung Tung Sahurs attaquent les brainrots, leur donnant des yeux rouges brillants et un symbole de zombie."
+  },
+  {
+    "Name": "TenB",
+    "Multiplier": 4,
+    "Image": "tenb.webp",
+    "Description": "Trait spécial pour l'événement des 10 milliards de visites. Le brainrot reçoit une aura festive et un emblème 10B."
+  },
+  {
+    "Name": "Water",
+    "Multiplier": 4,
+    "Image": "water.webp",
+    "Description": "Obtenu lors du rituel Orcalero après une attaque de requin. Le brainrot reçoit une aura électrique et un symbole de nageoire."
+  },
+  {
+    "Name": "Bubblegum",
+    "Multiplier": 4,
+    "Image": "bubblegum.webp",
+    "Description": "Activé via la Bubblegum Machine ou avec Robux. Le brainrot obtient un chewing-gum sur la tête et un symbole de bubblegum."
+  },
+  {
+    "Name": "Explosive",
+    "Multiplier": 4,
+    "Image": "explosive.webp",
+    "Description": "Des Bombardiro Crocodilos lâchent des bombes sur les brainrots, leur donnant une aura explosive et un symbole de crocodilo."
+  },
+  {
+    "Name": "Galactic",
+    "Multiplier": 4,
+    "Image": "galactic.webp",
+    "Description": "Le trait Galactic donne une aura violette et un symbole d'astéroïde. Il est obtenu lors du rituel La Vacca ou par formation spéciale en triangle."
+  },
+  {
+    "Name": "Taco",
+    "Multiplier": 3,
+    "Image": "taco.webp",
+    "Description": "Le trait Raining Tacos fait pleuvoir des tacos sur la carte. Un canon tire des tacos sur les brainrots, qui obtiennent un taco sur la tête et un symbole de taco."
+  },
+  {
+    "Name": "Bloodmoon",
+    "Multiplier": 2,
+    "Image": "bloodmoon.webp",
+    "Description": "Le trait Bloodmoon donne une aura rouge et un symbole de lune sanglante. Il est obtenu lors de l'événement Bloodmoon ou par un spawn admin."
+  }
+]

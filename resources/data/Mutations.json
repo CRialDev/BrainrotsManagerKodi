@@ -1,0 +1,12 @@
+[
+  {"Name":"Default","Multiplier":1},
+  {"Name":"Gold","Multiplier":1.25},
+  {"Name":"Diamond","Multiplier":1.5},
+  {"Name":"Rainbow","Multiplier":10},
+  {"Name":"Bloodrot","Multiplier":2},
+  {"Name":"Celestial","Multiplier":4},
+  {"Name":"Candy","Multiplier":4},
+  {"Name":"Lava","Multiplier":6},
+  {"Name":"Galaxy","Multiplier":6},
+  {"Name":"YinYang","Multiplier":7.5}
+]
