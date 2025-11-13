@@ -1,0 +1,21 @@
+<addon id="plugin.video.brainrot"
+       name="Brainrot Manager"
+       version="1.0.1"
+       provider-name="CRial">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="resources/lib/main.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Gestionnaire de Brainrots</summary>
+		<description>Accédez à vos bases, traits et brainrots directement depuis Kodi.</description>
+		<language>fr</language>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>
